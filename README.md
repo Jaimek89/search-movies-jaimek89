@@ -17,8 +17,10 @@ In this project, I have put in practice the following technologies:
 - Bulma
 - JavaScript
 - React
+- React routes
 - Git
 - GitHub
 - Surge
+***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
